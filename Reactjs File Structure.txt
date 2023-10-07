@@ -1,0 +1,341 @@
+LEARN  React.js IN 10 DAYS
+
+Lesson1	-      Introduction to React.js
+	- ElementA -concept1- What is React.js?
+		- elementB - Explanation of concept     - What is React.js 
+		- elementC - Example of concept		- What is React.js 
+		- elementD - Where it is used		- Applications of React.js 
+		- elementE - sample code		- related codes to React.js 
+		- elementF - image			- relevant images of React.js 
+		- elementG - summary			- summary of React.js 
+		- elementH - interview questions	- knowledge check about the React.js 
+	- ElementA - concept2 -  Setting up React.js
+		- elementB - Explanation of concept     - Setting up React.js 
+		- elementC - Example of concept		- Setting up React.js 
+		- elementD - Where it is used		- Applications of Setting up React.js 
+		- elementE - sample code		- codes of  Setting up React.js 
+		- elementF - image			- relevant images of Setting up React.js 
+		- elementG - summary			- summary of Setting up React.js 
+		- elementH - interview questions	- knowledge check about Setting up React.js 
+	- ElementA - concept3 	-  Basic React.js concepts
+		- elementB - Explanation of concept     - Basic React.js concepts
+		- elementC - Example of concept		- Basic React.js concepts
+		- elementD - Where it is used		- Applications of  Basic React.js concepts
+		- elementE - sample code		- code for Creating Basic React.js concepts
+		- elementF - image			- relevant images of Basic React.js concepts
+		- elementG - summary			- summary of Basic React.js concepts
+		- elementH - interview questions	- knowledge check about Basic React.js concepts
+	- ElementA - concept4 	- React.js documentation
+		- elementB - Explanation of concept     - React.js documentation
+		- elementC - Example of concept		- React.js documentation
+		- elementD - Where it is used		- Applications of React.js documentation
+		- elementE - sample code		- code for React.js documentation
+		- elementF - image			- relevant images of React.js documentation
+		- elementG - summary			- summary of React.js documentation
+		- elementH - interview questions	- knowledge check about React.js documentation
+
+
+Lesson2	-   React Components
+	- ElementA - concept1 	- Creating functional and class components
+		- elementB - Explanation of concept     - Creating functional and class components
+		- elementC - Example of concept		- Creating functional and class components
+		- elementD - Where it is used		- Applications of Creating functional and class components
+		- elementE - sample code		- code for Creating functional and class components
+		- elementF - image			- relevant images of Creating functional and class components
+		- elementG - summary			- summary of Creating functional and class components
+		- elementH - interview questions	- knowledge check about Creating functional and class components
+	- ElementA - concept2 - Props and state
+		- elementB - Explanation of concept     - Props and state
+		- elementC - Example of concept		- Props and state
+		- elementD - Where it is used		- Applications of Props and state
+		- elementE - sample code		- codes for Props and state
+		- elementF - image			- relevant images of Props and state
+		- elementG - summary			- summary of Props and state
+		- elementH - interview questions	- knowledge check about Props and state
+	- ElementA - concept3 	-  Component lifecycle methods
+		- elementB - Explanation of concept     - Component lifecycle methods
+		- elementC - Example of concept		- Component lifecycle methods
+		- elementD - Where it is used		- Applications of Component lifecycle methods
+		- elementE - sample code		- code for Component lifecycle methods
+		- elementF - image			- relevant images of Component lifecycle methods
+		- elementG - summary			- summary of Component lifecycle methods
+		- elementH - interview questions	- knowledge check about Component lifecycle methods
+	- ElementA - concept4 	- JSX syntax
+		- elementB - Explanation of concept     - JSX syntax
+		- elementC - Example of concept		- JSX syntax
+		- elementD - Where it is used		- Applications of JSX syntax
+		- elementE - sample code		- code for JSX syntax
+		- elementF - image			- relevant images of JSX syntax
+		- elementG - summary			- summary of JSX syntax
+		- elementH - interview questions	- knowledge check about JSX syntax
+
+
+Lesson3	-   Working with React Forms
+	- ElementA - concept1 	- Building forms with controlled components
+		- elementB - Explanation of concept     - Building forms with controlled components
+		- elementC - Example of concept		- Building forms with controlled components
+		- elementD - Where it is used		- Applications of Building forms with controlled components
+		- elementE - sample code		- codes for Building forms with controlled components
+		- elementF - image			- relevant images of Building forms with controlled components
+		- elementG - summary			- summary of Building forms with controlled components
+		- elementH - interview questions	- knowledge check about Building forms with controlled components
+	- ElementA - concept2 -  Form events and handling
+		- elementB - Explanation of concept     - Form events and handling
+		- elementC - Example of concept		- Form events and handling
+		- elementD - Where it is used		- Applications of Form events and handling
+		- elementE - sample code		- codes for Form events and handling
+		- elementF - image			- relevant images of Form events and handling
+		- elementG - summary			- summary of Form events and handling
+		- elementH - interview questions	- knowledge check about Form events and handling
+	- ElementA - concept3 	- Form validation and error handling
+		- elementB - Explanation of concept     - Form validation and error handling
+		- elementC - Example of concept		- Form validation and error handling
+		- elementD - Where it is used		- Applications of Form validation and error handling
+		- elementE - sample code		- Code for Form validation and error handling
+		- elementF - image			- relevant images of Form validation and error handling
+		- elementG - summary			- summary of Form validation and error handling
+		- elementH - interview questions	- knowledge check about Form validation and error handling
+	- ElementA - concept4 	- Form libraries
+		- elementB - Explanation of concept     - Form libraries
+		- elementC - Example of concept		- Form libraries
+		- elementD - Where it is used		- Applications of Form libraries
+		- elementE - sample code		- code for Form libraries
+		- elementF - image			- relevant images of Form libraries
+		- elementG - summary			- summary of Form libraries
+		- elementH - interview questions	- knowledge check about Form libraries
+
+
+Lesson4	-  Styling in React
+	- ElementA - concept1 	- Styling React components with CSS
+		- elementB - Explanation of concept     - Styling React components with CSS
+		- elementC - Example of concept		- Styling React components with CSS
+		- elementD - Where it is used		- Applications of Styling React components with CSS
+		- elementE - sample code		- codes for Styling React components with CSS
+		- elementF - image			- relevant images of Styling React components with CSS
+		- elementG - summary			- summary of Styling React components with CSS
+		- elementH - interview questions	- knowledge check about Styling React components with CSS
+	- ElementA - concept2 -  CSS-in-JS solutions (Styled-components, Emotion)
+		- elementB - Explanation of concept     - CSS-in-JS solutions (Styled-components, Emotion)
+		- elementC - Example of concept		- CSS-in-JS solutions (Styled-components, Emotion)
+		- elementD - Where it is used		- Applications of CSS-in-JS solutions (Styled-components, Emotion)
+		- elementE - sample code		- codes for CSS-in-JS solutions (Styled-components, Emotion)
+		- elementF - image			- relevant images of CSS-in-JS solutions (Styled-components, Emotion)
+		- elementG - summary			- summary of CSS-in-JS solutions (Styled-components, Emotion)
+                - elementH - interview questions	- knowledge check about CSS-in-JS solutions (Styled-components, Emotion)
+	- ElementA - concept3 - CSS frameworks with React
+		- elementB - Explanation of concept     - CSS frameworks with React
+		- elementC - Example of concept		- CSS frameworks with React
+		- elementD - Where it is used		- Applications of CSS frameworks with React
+		- elementE - sample code		- codes for CSS frameworks with React
+		- elementF - image			- relevant images of CSS frameworks with React
+		- elementG - summary			- summary of CSS frameworks with React
+                - elementH - interview questions	- knowledge check about CSS frameworks with React
+        - ElementA - concept4 	- Styling best practices
+		- elementB - Explanation of concept     - Styling best practices
+		- elementC - Example of concept		- Styling best practices
+		- elementD - Where it is used		- Applications of Styling best practices
+		- elementE - sample code		- code for Styling best practices
+		- elementF - image			- relevant images of Styling best practices
+		- elementG - summary			- summary of Styling best practices
+		- elementH - interview questions	- knowledge check about Styling best practices
+Lesson5	-  State Management in React
+	- ElementA - concept1 	- Managing state with useState and useReducer
+		- elementB - Explanation of concept     - Managing state with useState and useReducer
+		- elementC - Example of concept		- Managing state with useState and useReducer
+		- elementD - Where it is used		- codes for  Managing state with useState and useReducer
+		- elementF - image			- relevant images of  Managing state with useState and useReducer
+		- elementG - summary			- summary of  Managing state with useState and useReducer
+		- elementH - interview questions	- knowledge check about  Managing state with useState and useReducer
+	- ElementA - concept2 - Context API for state management
+		- elementB - Explanation of concept     - Context API for state management
+		- elementC - Example of concept		- Context API for state management
+		- elementD - Where it is used		- Applications of Context API for state management
+		- elementE - sample code		- codes for Context API for state management
+		- elementF - image			- relevant images of Context API for state management
+		- elementG - summary			- summary of Context API for state management
+		- elementH - interview questions	- knowledge check about Context API for state management
+	- ElementA - concept3 	- React Redux for global state
+		- elementB - Explanation of concept     - React Redux for global state
+		- elementC - Example of concept		- React Redux for global state
+		- elementD - Where it is used		- Applications of React Redux for global state
+		- elementE - sample code		- code for React Redux for global state
+		- elementF - image			- relevant images of React Redux for global state
+		- elementG - summary			- summary of React Redux for global state
+		- elementH - interview questions	- knowledge check about React Redux for global state
+	- ElementA - concept4 	- React hooks best practices
+		- elementB - Explanation of concept     - React hooks best practices
+		- elementC - Example of concept		- React hooks best practices
+		- elementD - Where it is used		- Applications of React hooks best practices
+		- elementE - sample code		- code for React hooks best practices
+		- elementF - image			- relevant images of React hooks best practices
+		- elementG - summary			- summary of React hooks best practices
+		- elementH - interview questions	- knowledge check about React hooks best practices
+
+
+Lesson6	-  React Router and Navigation
+	- ElementA -   Implementing client-side routing with React Router
+		- elementB - Explanation of concept     - Implementing client-side routing with React Router
+		- elementC - Example of concept		- Implementing client-side routing with React Router
+		- elementD - Where it is used		- Applications of Implementing client-side routing with React Router
+		- elementE - sample code		- codes for Implementing client-side routing with React Router
+		- elementF - image			- relevant images of Implementing client-side routing with React Router
+		- elementG - summary			- summary of Implementing client-side routing with React Router
+		- elementH - interview questions	- knowledge check about Implementing client-side routing with React Router
+	- ElementA - concept2 -  Route parameters and query parameters
+		- elementB - Explanation of concept     - Route parameters and query parameters
+		- elementC - Example of concept		- Route parameters and query parameters
+		- elementD - Where it is used		- Applications of Route parameters and query parameters
+		- elementE - sample code		- codes for Route parameters and query parameters
+		- elementF - image			- relevant images of Route parameters and query parameters
+		- elementG - summary			- summary of Route parameters and query parameters
+		- elementH - interview questions	- knowledge check about Route parameters and query parameters
+	- ElementA - concept3 	- Nested routing and navigation patterns
+		- elementB - Explanation of concept     - Nested routing and navigation patterns
+		- elementC - Example of concept		- Nested routing and navigation patterns
+		- elementD - Where it is used		- Applications of Nested routing and navigation patterns
+		- elementE - sample code		- code for Nested routing and navigation patterns
+		- elementF - image			- relevant images of Nested routing and navigation patterns
+		- elementG - summary			- summary of Nested routing and navigation patterns
+		- elementH - interview questions	- knowledge check about Nested routing and navigation patterns
+
+
+Lesson7	-   Working with APIs in React
+	- ElementA - concept1 	- Making API requests in React
+		- elementB - Explanation of concept     - Making API requests in React
+		- elementC - Example of concept		- Making API requests in React
+		- elementD - Where it is used		- Applications of Making API requests in React
+		- elementE - sample code		- codes for Making API requests in React
+		- elementF - image			- relevant images of Making API requests in React
+		- elementG - summary			- summary of Making API requests in React
+		- elementH - interview questions	- knowledge check about Making API requests in React
+	- ElementA - concept2 - Using Axios for HTTP requests
+		- elementB - Explanation of concept     - Using Axios for HTTP requests
+		- elementC - Example of concept		- Using Axios for HTTP requests
+		- elementD - Where it is used		- Applications of Using Axios for HTTP requests
+		- elementE - sample code		- codes for Using Axios for HTTP requests
+		- elementF - image			- relevant images of Using Axios for HTTP requests
+		- elementG - summary			- summary of Using Axios for HTTP requests
+		- elementH - interview questions	- knowledge check about Using Axios for HTTP requests
+	- ElementA - concept3 	- Fetch API and other alternatives
+		- elementB - Explanation of concept     - Fetch API and other alternatives
+		- elementC - Example of concept		- Fetch API and other alternatives
+		- elementD - Where it is used		- Applications of Fetch API and other alternatives
+		- elementE - sample code		- code for Fetch API and other alternatives
+		- elementF - image			- relevant images of Fetch API and other alternatives
+		- elementG - summary			- summary of Fetch API and other alternatives
+		- elementH - interview questions	- knowledge check about Fetch API and other alternatives
+        - ElementA - concept4 	- Handling async data and state updates
+		- elementB - Explanation of concept     - Handling async data and state updates
+		- elementC - Example of concept		- Handling async data and state updates
+		- elementD - Where it is used		- Applications of Handling async data and state updates
+		- elementE - sample code		- code for Handling async data and state updates
+		- elementF - image			- relevant images of Handling async data and state updates
+		- elementG - summary			- summary of Handling async data and state updates
+		- elementH - interview questions	- knowledge check about Handling async data and state updates
+
+
+
+Lesson8	-  Testing React Applications
+	- ElementA - concept1 	-  Writing unit tests with Jest and React Testing Library
+		- elementB - Explanation of concept     - Writing unit tests with Jest and React Testing Library
+		- elementC - Example of concept		- Writing unit tests with Jest and React Testing Library
+		- elementD - Where it is used		- Applications of Writing unit tests with Jest and React Testing Library
+		- elementE - sample code		- Codes for Writing unit tests with Jest and React Testing Library
+		- elementF - image			- relevant images of Writing unit tests with Jest and React Testing Library
+		- elementG - summary			- summary of Writing unit tests with Jest and React Testing Library
+		- elementH - interview questions	- knowledge check about Writing unit tests with Jest and React Testing Library
+	- ElementA - concept2 -  Testing components, props, and state
+		- elementB - Explanation of concept     - Testing components, props, and state
+		- elementC - Example of concept		- Testing components, props, and state
+		- elementD - Where it is used		- Applications of Testing components, props, and state
+		- elementE - sample code		- codes for Testing components, props, and state
+		- elementF - image			- relevant images of Testing components, props, and state
+		- elementG - summary			- summary of Testing components, props, and state
+		- elementH - interview questions	- knowledge check about Testing components, props, and state
+	- ElementA - concept3 	-  End-to-end testing with Cypress
+		- elementB - Explanation of concept     - End-to-end testing with Cypress
+		- elementC - Example of concept		- End-to-end testing with Cypress
+		- elementD - Where it is used		- Applications of End-to-end testing with Cypress
+		- elementE - sample code		- code for End-to-end testing with Cypress
+		- elementF - image			- relevant images of End-to-end testing with Cypress
+		- elementG - summary			- summary of End-to-end testing with Cypress
+		- elementH - interview questions	- knowledge check about End-to-end testing with Cypress
+         - ElementA - concept4 	- Testing best practices
+		- elementB - Explanation of concept     - Testing best practices
+		- elementC - Example of concept		- Testing best practices
+		- elementD - Where it is used		- Applications of Testing best practices
+		- elementE - sample code		- code for Testing best practices
+		- elementF - image			- relevant images of Testing best practices
+		- elementG - summary			- summary of Testing best practices
+		- elementH - interview questions	- knowledge check about Testing best practices
+
+
+Lesson9	-  React Context and Hooks
+	- ElementA - concept1 	- Using React Context for state management
+		- elementB - Explanation of concept     - Using React Context for state management
+		- elementC - Example of concept		- Using React Context for state management
+		- elementD - Where it is used		- Applications of Using React Context for state management
+		- elementE - sample code		- codes for Using React Context for state management
+		- elementF - image			- relevant images of Using React Context for state management
+		- elementG - summary			- summary of Using React Context for state management
+		- elementH - interview questions	- knowledge check about Using React Context for state management
+	- ElementA - concept2 - Custom hooks and reusable logic
+		- elementB - Explanation of concept     - Custom hooks and reusable logic
+		- elementC - Example of concept		- Custom hooks and reusable logic
+		- elementD - Where it is used		- Applications of Custom hooks and reusable logic
+		- elementE - sample code		- codes for Custom hooks and reusable logic
+		- elementF - image			- relevant images of Custom hooks and reusable logic
+		- elementG - summary			- summary of Custom hooks and reusable logic
+		- elementH - interview questions	- knowledge check about Custom hooks and reusable logic
+	- ElementA - concept3 - useContext and useReducer in complex applications
+		- elementB - Explanation of concept     - useContext and useReducer in complex applications
+		- elementC - Example of concept		- useContext and useReducer in complex applications
+		- elementD - Where it is used		- Applications of useContext and useReducer in complex applications
+		- elementE - sample code		- codes for useContext and useReducer in complex applications
+		- elementF - image			- relevant images of useContext and useReducer in complex applications
+		- elementG - summary			- summary of useContext and useReducer in complex applications
+		- elementH - interview questions	- knowledge check about useContext and useReducer in complex applications
+         - ElementA - concept4 - Advanced hook patterns
+		- elementB - Explanation of concept     - Advanced hook patterns
+		- elementC - Example of concept		- Advanced hook patterns
+		- elementD - Where it is used		- Applications of Advanced hook patterns
+		- elementE - sample code		- codes for Advanced hook patterns
+		- elementF - image			- relevant images of Advanced hook patterns
+		- elementG - summary			- summary of Advanced hook patterns
+		- elementH - interview questions	- knowledge check about Advanced hook patterns
+
+
+Lesson10-   Final Project and Wrap-Up
+	- ElementA - concept1 	- Building a complete React.js application
+		- elementB - Explanation of concept     - Building a complete React.js application
+		- elementC - Example of concept		- Building a complete React.js application
+		- elementD - Where it is used		- Applications of Building a complete React.js application
+		- elementE - sample code		- codes for Building a complete React.js application
+		- elementF - image			- relevant images of Building a complete React.js application
+		- elementG - summary			- summary of Building a complete React.js application
+		- elementH - interview questions	- knowledge check about Building a complete React.js application
+	- ElementA - concept2 - Polishing and optimizing the app
+		- elementB - Explanation of concept     - Polishing and optimizing the app
+		- elementC - Example of concept		- Polishing and optimizing the app
+		- elementD - Where it is used		- Applications of Polishing and optimizing the app
+		- elementE - sample code		- codes for Polishing and optimizing the app
+		- elementF - image			- relevant images of Polishing and optimizing the app
+		- elementG - summary			- summary of Polishing and optimizing the app
+		- elementH - interview questions	- knowledge check about Polishing and optimizing the app
+	- ElementA - concept3 	- Final project presentation
+		- elementB - Explanation of concept     - Final project presentation
+		- elementC - Example of concept		- Final project presentation
+		- elementD - Where it is used		- Applications of Final project presentation
+		- elementE - sample code		- code for Final project presentation
+		- elementF - image			- relevant images of Final project presentation
+		- elementG - summary			- summary of Final project presentation
+		- elementH - interview questions	- knowledge check about Final project presentation
+	- ElementA - concept4 	- Further React.js resources and tips
+		- elementB - Explanation of concept     - Further React.js resources and tips
+		- elementC - Example of concept		- Further React.js resources and tips
+		- elementD - Where it is used		- Applications of Further React.js resources and tips
+		- elementE - sample code		- code for Further React.js resources and tips
+		- elementF - image			- relevant images of Further React.js resources and tips
+		- elementG - summary			- summary of Further React.js resources and tips
+		- elementH - interview questions	- knowledge check about Further React.js resources and tips
+
