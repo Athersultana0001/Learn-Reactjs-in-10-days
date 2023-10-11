@@ -366,7 +366,7 @@ You've successfully set up Cypress for your React application and written an end
 
 # 📚 Testing Best Practices
 
-![25,127 Best Practices Images, Stock Photos & Vectors | Shutterstock](https://www.shutterstock.com/image-illustration/best-practices-check-mark-red-260nw-636033488.jpg)
+![Best Pratice](https://assets-global.website-files.com/61f29c609f84a86e418fbcfb/6334496f2f356eb5f33507f6_63344949c92dfc1827e18791_62ba1f828164de9.webp)
 
 Effective testing is crucial for ensuring the reliability and stability of your software. Here are some testing best practices to follow:
 
@@ -770,4 +770,3 @@ On Day 8, we delved into testing React applications, covering unit testing, end-
 
 
 🧪 As we conclude Day 8 of our testing journey, remember that testing is a vital aspect of ensuring the reliability and quality of your applications. You've learned about unit testing with Jest and React Testing Library, explored end-to-end testing with Cypress, and embraced essential testing best practices. Keep honing your testing skills, and you'll be well-equipped to build robust and reliable software. 🚀
-
