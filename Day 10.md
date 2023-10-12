@@ -259,7 +259,7 @@ The final project presentation is your opportunity to showcase your hard work an
 -   Provide a brief overview of the project, including its name and purpose.
 -   Set the stage for what your audience can expect during the presentation.
 
-## 2. **Project Concept and Features 💡🌟**
+## 2. **Project Concept and Features 💡**
 
 -   Describe the concept behind your project. What inspired you to create it?
 -   Highlight the key features and functionalities of your application.
@@ -271,19 +271,19 @@ The final project presentation is your opportunity to showcase your hard work an
 -   Share insights into the tools, technologies, and libraries you used during development.
 -   Mention any challenges you encountered and how you overcame them.
 
-## 4. **Demonstration 📱👀**
+## 4. **Demonstration 👀**
 
 -   Provide a live demonstration of your application. Walk your audience through its main functionalities.
 -   Explain the user flow and how to use the application.
 -   Be interactive and engage your audience by showing how real users would interact with your app.
 
-## 5. **Q&A Session ❓🗨️**
+## 5. **Q&A Session ❓🗨**
 
 -   Open the floor for questions and feedback. Encourage your audience to ask questions.
 -   Be prepared to explain your design decisions, code structure, and any other aspects of your project.
 -   Embrace constructive feedback and suggestions for improvement.
 
-## 6. **Conclusion and Thank You 🙏🎉**
+## 6. **Conclusion and Thank You 🙏**
 
 -   Summarize the key takeaways from your presentation.
 -   Express your gratitude to your peers, instructors, and anyone who supported you.
